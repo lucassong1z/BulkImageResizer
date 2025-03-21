@@ -1,0 +1,12 @@
+*.pyc
+.DS_Store
+venv/
+__pycache__/
+.env
+.idea/
+coverage/
+.dist
+build/
+.tmp
+.cache
+node_modules/
