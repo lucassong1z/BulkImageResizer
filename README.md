@@ -10,3 +10,4 @@ Usage
 Notes
 - Written to be simple and dependency-light (Pillow only).
 - No runtime setup here; just code and tests can be added later.
+- This is a personal scratchpad tool; expect small, incremental changes.
